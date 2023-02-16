@@ -36,7 +36,7 @@ const ContactUs = () => {
                         <div className={ComponentsCSS["icons"]}>
                             <i className="fa fa-envelope-o"></i>
                             <span>
-                                <h5>atlasbdmntn@gmail.com</h5>
+                                <h5>atlas.bdmntn.sportclub@gmail.com</h5>
                                 <p>Feel free to e-mail us</p>
                             </span>
                         </div>
