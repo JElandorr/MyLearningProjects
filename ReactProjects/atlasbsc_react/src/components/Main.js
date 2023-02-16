@@ -21,7 +21,7 @@ const Main = () => {
 
     const subpage = {
         about: "About Us",
-        blog: "Our Certificates And Online Programs For 2022",
+        blog: "News, Events and Competitions",
         contact: "Contact Us",
         courses: "Our Courses",
     };

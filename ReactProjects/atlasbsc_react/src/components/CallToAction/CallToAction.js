@@ -7,9 +7,9 @@ const CallToAction = ({ subpageHandler }) => {
         <>
             <section className={ComponentsCSS["cta"]}>
                 <h1>
-                    Enroll for Our various online courses
+                    Enroll for our exciting training courses today!
                     <br />
-                    Anywhere from the World
+                    Find us in Stara Zagora
                 </h1>
                 <div className={ComponentsCSS["hero-btn"]} onClick={() => subpageHandler("CONTACT")}>
                     CONTACT US

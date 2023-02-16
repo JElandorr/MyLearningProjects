@@ -11,7 +11,7 @@ const Blog = () => {
                         src="https://thumbs.dreamstime.com/b/badminton-action-shuttlecock-fast-racket-motion-sport-167143422.jpg"
                         alt="certificate.jpg"
                     />
-                    <h2>Our Certificates And Online Programs For 2022</h2>
+                    <h2>News, Events and Competitions</h2>
                     <p>
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, sequi sint quas
                         expedita dicta cum amet eum ut blanditiis reprehenderit corrupti rerum veritatis commodi vel ab
@@ -23,31 +23,31 @@ const Blog = () => {
                 <div className={ComponentsCSS["blog-right"]}>
                     <h3>Post Categories</h3>
                     <div>
-                        <span>Business Analytics</span>
+                        <span>News</span>
                         <span>21</span>
                     </div>
                     <div>
-                        <span>Data Science</span>
+                        <span>Our Events</span>
                         <span>28</span>
                     </div>
                     <div>
-                        <span>Machine Learning</span>
+                        <span>National Competitions</span>
                         <span>32</span>
                     </div>
                     <div>
-                        <span>Computer Science</span>
+                        <span>Regional Competitions</span>
                         <span>35</span>
                     </div>
                     <div>
-                        <span>AutoCAD</span>
+                        <span>Qualification/Rank List</span>
                         <span>27</span>
                     </div>
                     <div>
-                        <span>Journalism</span>
+                        <span>Training Schedule Updates</span>
                         <span>26</span>
                     </div>
                     <div>
-                        <span>Economics</span>
+                        <span>Other/Misc.</span>
                         <span>30</span>
                     </div>
                 </div>

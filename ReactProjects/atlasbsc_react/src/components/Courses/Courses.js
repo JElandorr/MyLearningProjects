@@ -6,7 +6,7 @@ const Courses = () => {
     return (
         <>
             <section className={ComponentsCSS["courses"]}>
-                <h1>Courses That We Offer</h1>
+                <h1>Training Groups</h1>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur optio deserunt illum. Deserunt
                     placeat cumque corrupti rem ad perferendis! Fugiat minima laboriosam voluptatum repudiandae! Autem
@@ -14,7 +14,7 @@ const Courses = () => {
                 </p>
                 <div className={ComponentsCSS["row"]}>
                     <div className={ComponentsCSS["course-col"]}>
-                        <h3>Intermediate</h3>
+                        <h3>Beginners</h3>
                         <p>
                             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam cumque a, deleniti, amet
                             maxime quibusdam veritatis natus quia assumenda sequi maiores aperiam labore doloribus
@@ -22,7 +22,7 @@ const Courses = () => {
                         </p>
                     </div>
                     <div className={ComponentsCSS["course-col"]}>
-                        <h3>Degree</h3>
+                        <h3>Advanced Players</h3>
                         <p>
                             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam cumque a, deleniti, amet
                             maxime quibusdam veritatis natus quia assumenda sequi maiores aperiam labore doloribus
@@ -30,7 +30,7 @@ const Courses = () => {
                         </p>
                     </div>
                     <div className={ComponentsCSS["course-col"]}>
-                        <h3>Post Graduation</h3>
+                        <h3>Professional Athletes</h3>
                         <p>
                             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam cumque a, deleniti, amet
                             maxime quibusdam veritatis natus quia assumenda sequi maiores aperiam labore doloribus

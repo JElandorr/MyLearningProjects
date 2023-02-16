@@ -47,7 +47,7 @@ const Testimonials = () => {
                                 sapiente aperiam voluptatem incidunt quia blanditiis corporis, quisquam, fugit rem
                                 maxime. Cumque commodi quo atque laudantium minima corrupti quae!
                             </p>
-                            <h3>Pencho Kubadinski</h3>
+                            <h3>Sherlock Holmes</h3>
                             <div className={ComponentsCSS["icons"]}>
                                 <i className="fa fa-star"></i>
                                 <i className="fa fa-star"></i>
