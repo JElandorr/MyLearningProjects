@@ -17,16 +17,24 @@ const Footer = () => {
                 </p>
                 <div className={FooterCSS["icons"]}>
                     <div>
-                        <FontAwesomeIcon icon={faFacebook} />
+                        <a href="https://www.facebook.com/profile.php?id=100089348267985">
+                            <FontAwesomeIcon icon={faFacebook} />
+                        </a>
                     </div>
                     <div>
-                        <FontAwesomeIcon icon={faTwitter} />
+                        <a href="">
+                            <FontAwesomeIcon icon={faTwitter} />
+                        </a>
                     </div>
                     <div>
-                        <FontAwesomeIcon icon={faInstagram} />
+                        <a href="">
+                            <FontAwesomeIcon icon={faInstagram} />
+                        </a>
                     </div>
                     <div>
-                        <FontAwesomeIcon icon={faLinkedin} />
+                        <a href="">
+                            <FontAwesomeIcon icon={faLinkedin} />
+                        </a>
                     </div>
                 </div>
                 <p>
